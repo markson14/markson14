@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Computer Vision.
 
 <!--
 **markson14/markson14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
