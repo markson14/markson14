@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ![](https://github-readme-stats.vercel.app/api?username=markson14&theme=nord&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markson14&layout=compact&card_width=500)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markson14&layout=compact&card_width=500) -->
 
 ### [FaceRecognitionCpp](https://github.com/markson14/FaceRecognitionCpp/tree/master)
 ![img](https://github.com/markson14/FaceRecognitionCpp/blob/master/assets/demo.gif)
