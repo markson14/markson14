@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Character Motion Synthesis
-- 🌱 I’m currently learning Multi-modal Pre-Trained Models
+- 🔭 I’m currently working on Diffusion models
+- 🌱 I’m currently learning MANY THINGS
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
