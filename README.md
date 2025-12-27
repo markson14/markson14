@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on real-time Video LM & Compact Video-Tokenizer
+- 🔭 I’m currently working on Agentic RL and Multi-Agents
 - 🌱 I’m currently learning MANY THINGS
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
