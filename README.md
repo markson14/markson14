@@ -1,15 +1,13 @@
-### Hi there, this is markson14 👋
+# 👋 markson14
 
-Here are some ideas to get you started:
+I build AI systems for game development.
 
-- 🔭 I’m currently working on Agentic RL and Multi-Agents
-- 🌱 I’m enjoy building stuffs with vibe coding
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+### 🔍 What I work on
 
-![](https://github-readme-stats.vercel.app/api?username=markson14&theme=nord&show_icons=true&rank_icon=github)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markson14&layout=compact&card_width=500) -->
+* 🤖 LLM agents and multi-agent systems
+* 🧪 Agent evaluation and alignment
+* 📚 Agentic RAG and developer tools
+* 🎬 Generative video and visual AI
+* 🎮 AI-assisted game production workflows
+
+🌐 [Website](https://markson14.github.io/)
